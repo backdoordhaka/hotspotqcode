@@ -11,7 +11,7 @@
 ```
 /ip hotspot walled-garden ip
 
-add action=accept comment="BackdoorDhaka QR Code Scanner" disabled=no dst-host=laksa19.github.io
+add action=accept comment="BackdoorDhaka QR Code Scanner" disabled=no dst-host=https://backdoordhaka.github.io
 ```
 
-### Powered by webqr.com
+### Powered by KZ Tech Bangladesh
